@@ -40,7 +40,6 @@ Este infográfico resume os principais conceitos de modelagem de dados em Data L
 <p align="center">
   <img src="https://github.com/Rflavia/data-lake-modelagem/blob/main/Intografico.jpg?raw=true" width="700px">
 </p>
----
 
 ## 🎯 Objetivo
 

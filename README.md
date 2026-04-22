@@ -38,7 +38,7 @@ O conteúdo aborda conceitos fundamentais como:
 Este infográfico resume os principais conceitos de modelagem de dados em Data Lakes, incluindo ingestão, arquitetura em camadas (Bronze, Silver, Gold), formatos de dados e governança.
 
 <p align="center">
-  <img src="Intografico.jpg" width="700px">
+  <img src="https://github.com/Rflavia/data-lake-modelagem/blob/main/Intografico.jpg?raw=true" width="700px">
 </p>
 ---
 
